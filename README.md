@@ -49,9 +49,11 @@ Este é um aplicativo de calculadora científica desenvolvido no **Android Build
 ## 📸 Capturas de Tela
 
 Tela da Calculadora
+
 ![image](https://github.com/user-attachments/assets/da79c409-7944-4189-9090-beaffdffddf1)
 
 Tela de Operações
+
 ![image](https://github.com/user-attachments/assets/284998bc-1ad9-42b7-ab45-e4c14bdb8eec)
 
 Tela de Conversor de Dados
